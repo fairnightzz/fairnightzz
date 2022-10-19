@@ -1,4 +1,4 @@
-### 👩🏻‍ About Me
+### :wave:About Me
 Hello! I'm Zhehai (he/him) currently in my third year of Computer Science at the University of Waterloo! I'm also doing a Digital Hardware Specialization.
 
 ### Languages :computer:	
