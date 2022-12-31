@@ -63,13 +63,14 @@ Hello! I'm Zhehai (he/him) currently in my third year of Computer Science at the
 
 ### Currently working on 👩🏻‍🔧
 * Working as a developer at ToHacks, Toronto's Annual Hackathon
-* Developing a bootcamp dashboard platform at Bolt Bootcamps
 * Coordinating events at UWaterloo's Computer Science Club
+* Reading a myriad of novels
 
 ### Previously worked on :watch:	
 * Building new features and improvements on Splunk's first IoT device
-* Developing workflow software at D2L Corporation
+* Developed workflow software at D2L Corporation
 * Leading clubs such as Science Olympiad, Debate, and Chess
+* Engineered bootcamp dashboard platform at Bolt Bootcamps
 
 ### Ask me about :man_shrugging:	
 * My past experience playing competitive chess
