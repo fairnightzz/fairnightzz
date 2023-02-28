@@ -62,6 +62,7 @@ Hello! I'm Zhehai (he/him) currently in my third year of Computer Science at the
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
 
 ### Currently working on 👩🏻‍🔧
+* Developing Bitgo's Mobile Defi Institutional Wallet, Harbor
 * Working as a developer at ToHacks, Toronto's Annual Hackathon
 * Coordinating events at UWaterloo's Computer Science Club
 * Reading a myriad of novels
