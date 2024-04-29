@@ -1,5 +1,5 @@
 ### :wave:About Me
-Hello! I'm Zhehai (he/him) currently in my third year of Computer Science at the University of Waterloo! I'm also doing a Digital Hardware Specialization.
+Hello! I'm Zhehai (he/him) currently in my fourth year of Computer Science at the University of Waterloo! I'm also doing a Digital Hardware and Articial Intelligence Specialization.
 
 ### Languages :computer:	
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
@@ -12,6 +12,27 @@ Hello! I'm Zhehai (he/him) currently in my third year of Computer Science at the
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+
+### Currently working on 👩🏻‍🔧
+* Developing a new model to universalize contextual bandits at the University of Waterloo
+* Interning at LinkedIn, developing new features for Seeker Coach
+* Coordinating events at UWaterloo's Computer Science Club
+* Reading a myriad of novels
+
+### Previously worked on :watch:
+* Developed Bitgo's Mobile Defi Institutional Wallet, Harbor
+* Developed ToHacks' Judging App and Dashboard
+* Built new features and improvements on Splunk's first IoT device
+* Developed workflow software at D2L Corporation
+* Leading clubs such as Science Olympiad, Debate, and Chess
+* Engineered bootcamp dashboard platform at Bolt Bootcamps
+
+### Ask me about :man_shrugging:	
+* My past experience playing competitive chess
+* My obsession with TFT
+* My light novel recommendations
+* My effort to swim everyday
+
 
 ### Backend Tools/Frameworks
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
@@ -61,20 +82,3 @@ Hello! I'm Zhehai (he/him) currently in my third year of Computer Science at the
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
 
-### Currently working on 👩🏻‍🔧
-* Developing Bitgo's Mobile Defi Institutional Wallet, Harbor
-* Working as a developer at ToHacks, Toronto's Annual Hackathon
-* Coordinating events at UWaterloo's Computer Science Club
-* Reading a myriad of novels
-
-### Previously worked on :watch:	
-* Building new features and improvements on Splunk's first IoT device
-* Developed workflow software at D2L Corporation
-* Leading clubs such as Science Olympiad, Debate, and Chess
-* Engineered bootcamp dashboard platform at Bolt Bootcamps
-
-### Ask me about :man_shrugging:	
-* My past experience playing competitive chess
-* My obsession with TFT
-* My light novel recommendations
-* My effort to swim everyday
