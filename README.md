@@ -1,5 +1,5 @@
 ### :wave:About Me
-Hello! I'm Zhehai (he/him) currently in my fourth year of Computer Science at the University of Waterloo! I'm also doing a Digital Hardware and Articial Intelligence Specialization.
+Hello! I'm Zhehai (he/him), currently a software engineer @ Meta. I graduated with a degree in Computer Science at the University of Waterloo with a Digital Hardware and Artificial Intelligence Specialization.
 
 ### Languages :computer:	
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
@@ -14,24 +14,27 @@ Hello! I'm Zhehai (he/him) currently in my fourth year of Computer Science at th
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
 ### Currently working on 👩🏻‍🔧
-* Developing a new model to universalize contextual bandits at the University of Waterloo
-* Interning at LinkedIn, developing new features for Seeker Coach
-* Coordinating events at UWaterloo's Computer Science Club
-* Reading a myriad of novels
+* Building new features @ Meta
+* Photography and videography
 
 ### Previously worked on :watch:
-* Developed Bitgo's Mobile Defi Institutional Wallet, Harbor
-* Developed ToHacks' Judging App and Dashboard
-* Built new features and improvements on Splunk's first IoT device
-* Developed workflow software at D2L Corporation
-* Leading clubs such as Science Olympiad, Debate, and Chess
-* Engineered bootcamp dashboard platform at Bolt Bootcamps
+* Facebook Profile Infra
+* LinkedIn's Seeker Coach AI
+* Professor Pascal Poupart's reinforcement learning research team
+* LinkedIn Recruiter's chart components
+* Bitgo's Mobile Defi Institutional Wallet, Harbor
+* Events at UWaterloo's Computer Science Club
+* ToHacks' Judging App and Dashboard
+* Splunk's first IoT device
+* Workflow software at D2L Corporation
+* Club leading for Science Olympiad, Debate, and Chess
 
 ### Ask me about :man_shrugging:	
+* Cool projects you think I would be a good fit in
 * My past experience playing competitive chess
-* My obsession with TFT
 * My light novel recommendations
 * My effort to swim everyday
+* shooting and slog3
 
 
 ### Backend Tools/Frameworks
